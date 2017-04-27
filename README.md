@@ -4,7 +4,6 @@
   - ms-table : 使用avalon.js编写的头部和第一列固定的滚动表格插件
   
   
-******
 
 
 * interface-demo : 一些前端demo效果
