@@ -1,1 +1,4 @@
-
+微信小程序之设置所有页面背景颜色: 在app.wxss中 设置
+page {
+  backgroud-color: 你想设置的颜色;
+}
