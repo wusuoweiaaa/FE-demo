@@ -13,3 +13,11 @@ page {
 "tagbar"中"list"部分
 添加上
 "iconPath": "你的图标路径"
+
+3.-----------------------
+设置底部栏的切换菜单的选中图标（否则选中的时候为空）：
+
+在app.json中
+"tabBar"中"list"部分
+添加上
+"selectedIconPath": "你的选中图标路径"
